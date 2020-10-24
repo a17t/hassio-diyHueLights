@@ -19,3 +19,7 @@ Only tested with a dimmable light.
 
 ## Tested with
 - Arduino/Generic_Dimmable_Light
+
+
+Based on 
+https://github.com/home-assistant/example-custom-config/tree/master/custom_components/example_light/
