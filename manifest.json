@@ -1,0 +1,14 @@
+{
+  "domain": "diyesplight",
+  "name": "DIY ESP Light",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/diyesplight",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@simons1990"
+  ]
+}
